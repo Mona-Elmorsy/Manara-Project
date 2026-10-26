@@ -4,7 +4,7 @@ AWS Solutions Architect – Associate Graduation Project
 
 A secure, highly available, multi-tier web application architecture on AWS, designed around a public edge layer, a private compute tier, and a Multi-AZ data layer. The design spans two Availability Zones, separates public and private resources correctly, and removes direct SSH exposure to the internet in favor of IAM-based access.
 
-![Architecture Diagram](./architecture-diagram)
+![Architecture Diagram](./architecture-diagram.jpg)
 
 
 
